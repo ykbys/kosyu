@@ -20,6 +20,7 @@ public class Toi05 {
 		System.out.println("繰り返しの回数は" + count + "です");
 
 		scan.close();
+		//test
 	}
 
 }
