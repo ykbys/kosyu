@@ -1,4 +1,5 @@
 package mainsrc;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -6,7 +7,8 @@ import java.util.Properties;
 
 public class message {
     final Properties prop = new Properties();
-    final String filepass = "jyanken.properties";
+    String path = new File(".").getAbsoluteFile().getParent();
+    final String filepass = path + "/src/mainsrc/jyanken.properties";
 
     InputStreamReader inStream = null;{
 	    try {
