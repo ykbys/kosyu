@@ -1,3 +1,4 @@
+package handsrc;
 public class gu extends handtype {
 
 	public String type(){

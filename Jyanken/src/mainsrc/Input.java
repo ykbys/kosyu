@@ -1,3 +1,4 @@
+package mainsrc;
 import java.util.Scanner;
 
 

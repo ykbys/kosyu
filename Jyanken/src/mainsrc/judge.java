@@ -1,4 +1,4 @@
-
+package mainsrc;
 public class judge {
 
 	public String result(Player you,Player cpu) {

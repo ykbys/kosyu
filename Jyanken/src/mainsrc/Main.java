@@ -1,3 +1,4 @@
+package mainsrc;
 
 public class Main {
 

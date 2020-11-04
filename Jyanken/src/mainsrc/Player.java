@@ -1,4 +1,10 @@
+package mainsrc;
 import java.util.Random;
+
+import handsrc.choki;
+import handsrc.gu;
+import handsrc.handtype;
+import handsrc.pa;
 
 public class Player{
 	public String name;

@@ -1,3 +1,5 @@
+package handsrc;
+
 public class pa extends handtype {
 
 	public String type(){
